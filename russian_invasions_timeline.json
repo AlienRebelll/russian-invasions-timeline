@@ -1,114 +1,86 @@
 {
   "events": [
     {
-      "start_date": {
-        "year": "1939",
-        "month": "9",
-        "day": "17"
-      },
+      "start_date": {"year": "1939", "month": "9", "day": "17"},
       "text": {
         "headline": "Soviet Invasion of Poland",
         "text": "Following the Molotov-Ribbentrop Pact, the Soviet Union invaded eastern Poland, leading to its occupation."
       },
       "media": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Soviet_invasion_of_Poland.jpg",
-        "caption": "Soviet troops entering Poland in 1939.",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Lviv._September_1939.jpg",
+        "caption": "Soviet troops in Lviv, 1939.",
         "credit": "Wikimedia Commons"
       }
     },
     {
-      "start_date": {
-        "year": "1939",
-        "month": "11",
-        "day": "30"
-      },
+      "start_date": {"year": "1939", "month": "11", "day": "30"},
       "text": {
-        "headline": "Winter War",
+        "headline": "Winter War with Finland",
         "text": "The Soviet Union attacked Finland, initiating the Winter War, which lasted until March 1940."
       },
       "media": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/4/47/Winter_war.jpg",
-        "caption": "Finnish soldiers during the Winter War.",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/2/25/Tyrj%C3%A4st%C3%A4_-_August_13_1941.jpg",
+        "caption": "Finnish front during the Winter War.",
         "credit": "Wikimedia Commons"
       }
     },
     {
-      "start_date": {
-        "year": "1968",
-        "month": "8",
-        "day": "20"
-      },
+      "start_date": {"year": "1968", "month": "8", "day": "20"},
       "text": {
         "headline": "Invasion of Czechoslovakia",
         "text": "Warsaw Pact troops, led by the Soviet Union, invaded Czechoslovakia to halt the Prague Spring reforms."
       },
       "media": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Prague_Spring_invasion.jpg",
-        "caption": "Soviet tanks in Prague during the 1968 invasion.",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/3/3c/10_Soviet_Invasion_of_Czechoslovakia_-_Flickr_-_The_Central_Intelligence_Agency.jpg",
+        "caption": "Soviet tanks in Prague, 1968.",
         "credit": "Wikimedia Commons"
       }
     },
     {
-      "start_date": {
-        "year": "1979",
-        "month": "12",
-        "day": "24"
-      },
+      "start_date": {"year": "1979", "month": "12", "day": "24"},
       "text": {
         "headline": "Soviet Invasion of Afghanistan",
         "text": "The Soviet Union deployed troops to Afghanistan, initiating a conflict that lasted until 1989."
       },
       "media": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Soviet_invasion_of_Afghanistan.jpg",
-        "caption": "Soviet soldiers in Afghanistan, 1979.",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/6/65/Afghan-Soviet_war.png",
+        "caption": "Soviet soldier during the Afghanistan War.",
         "credit": "Wikimedia Commons"
       }
     },
     {
-      "start_date": {
-        "year": "2008",
-        "month": "8",
-        "day": "8"
-      },
+      "start_date": {"year": "2008", "month": "8", "day": "8"},
       "text": {
         "headline": "Russo-Georgian War",
         "text": "Russia engaged in a conflict with Georgia over the regions of South Ossetia and Abkhazia."
       },
       "media": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Russo-Georgian_War.jpg",
-        "caption": "Russian tanks moving through South Ossetia, 2008.",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/89/Anatoly_Lebed_14.jpg",
+        "caption": "Russian special forces during the conflict, 2008.",
         "credit": "Wikimedia Commons"
       }
     },
     {
-      "start_date": {
-        "year": "2014",
-        "month": "2",
-        "day": "20"
-      },
+      "start_date": {"year": "2014", "month": "2", "day": "20"},
       "text": {
         "headline": "Annexation of Crimea",
         "text": "Russia annexed the Crimean Peninsula from Ukraine, leading to international condemnation."
       },
       "media": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Crimea_Annexation_Map.png",
-        "caption": "Map depicting the annexation of Crimea, 2014.",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/08/%D0%9A%D1%80%D1%8B%D0%BC%2C_%D0%92%D0%B0%D1%80%D0%BB%D0%B0%D0%BC%D0%BE%D0%B2%2C_%D0%BC%D0%B0%D1%80%D1%82_2014%2C_25.jpg",
+        "caption": "Russian presence in Crimea, 2014.",
         "credit": "Wikimedia Commons"
       }
     },
     {
-      "start_date": {
-        "year": "2022",
-        "month": "2",
-        "day": "24"
-      },
+      "start_date": {"year": "2022", "month": "2", "day": "24"},
       "text": {
         "headline": "Invasion of Ukraine",
         "text": "Russia launched a full-scale invasion of Ukraine, escalating the ongoing conflict that began in 2014."
       },
       "media": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/a/a7/2022_Russian_invasion_of_Ukraine.jpg",
-        "caption": "Russian military vehicles advancing into Ukraine, 2022.",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/7/7b/%D0%9F%D0%BE%D1%81%D0%BB%D0%B5%D0%B4%D1%81%D1%82%D0%B2%D0%B8%D1%8F_%D1%83%D0%B4%D0%B0%D1%80%D0%B0_%D1%80%D0%B0%D0%BA%D0%B5%D1%82%D1%8B_%D0%BF%D0%BE_%D0%93%D0%BE%D0%BB%D0%BE%D1%81%D0%B5%D0%B5%D0%B2%D1%81%D0%BA%D0%BE%D0%BC%D1%83_%D1%80%D0%B0%D0%B9%D0%BE%D0%BD%D1%83_%D0%9A%D0%B8%D0%B5%D0%B2%D0%B0_%286%29.jpg",
+        "caption": "Missile strike aftermath in Kyiv, 2022.",
         "credit": "Wikimedia Commons"
       }
     }
